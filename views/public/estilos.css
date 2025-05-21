@@ -1,0 +1,10 @@
+/* public/css/estilos.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-title {
+    font-size: 1.25rem; /* Aumenta um pouco o título do card */
+}
+
+/* Adicione mais estilos personalizados conforme necessário */

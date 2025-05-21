@@ -1,0 +1,26 @@
+{
+  "name": "progemini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GersonESantos/progemini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GersonESantos/progemini/issues"
+  },
+  "homepage": "https://github.com/GersonESantos/progemini#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-handlebars": "^5.0.0",
+    "mongodb": "^6.16.0"
+  }
+}
